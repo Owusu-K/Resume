@@ -40,5 +40,10 @@ Empathy<br>
 Time Management <br>
 
 
+<p align="right">
+College
+ (Currently) New York College of Tecnology expected <br> graduation: June 2020 in bachelors of fine arts
+</p>
+
   
  
