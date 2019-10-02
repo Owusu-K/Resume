@@ -5,13 +5,4 @@
    
 
 
-Imbuing ***empathy, immersion, perspective*** through visual design and interaction.
 
-Imbuing ***empathy, immersion,<br> perspective***through  visual design<br> and interaction.
-
-|   	|   	|   	|     |
-|---	|---	|---	|---  |
-|   	|   	|   	|     |
-|   	|   	|   	|     |
-|   	|   	|   	|     |
-|   	|   	|   	|     |
