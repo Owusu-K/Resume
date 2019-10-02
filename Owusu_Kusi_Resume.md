@@ -7,22 +7,22 @@ KUZO.KUSI.OWUSU@GMAIL.COM <br>
 [OWUSUKUSI.COM](https://www.owusukusi.com "My Portfolio")
 
 
-**SOFTWARE**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **UX/UI SKILLS**<br>
-Xd <br> 
-Illustrator <br>
-Indesign <br>
-Animate <br>
-Photoshop <br>
-After effects <br>
-Premiere <br>
-Dreamweaver <br>
-Sketch app <br>
-Invision <br>
-Maya lt <br>
-Sketch pro <br>
-Autocad <br>
-Revit <br>
-MS word <br>
+**SOFTWARE**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **UX/UI SKILLS**<br>
+Adobe Xd&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;User Research <br> 
+Adobe Illustrator&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ideation <br>
+Adobe Indesign&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Evaluation<br>
+Adobe Animate&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Wireframes<br>
+Adobe Photoshop&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Low-Hi fidelity Prototyping<br>
+Adobe After-Effects&nbsp; &nbsp; &nbsp; &nbsp; Motion Graphics<br>
+Adobe Premiere&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HTML<br>
+Adobe Dreamweaver&nbsp; &nbsp; &nbsp; CSS<br>
+Sketch app&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Visual Design<br>
+Invision &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Accessibility Design<br>
+Maya lt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Usuability Design<br>
+Sketch Pro&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Video Editing<br>
+Autocad &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Illustration<br>
+Revit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3D Modeling<br>
+ 
 
 
 
