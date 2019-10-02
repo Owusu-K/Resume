@@ -26,19 +26,19 @@ Revit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 
 
 
-**UX/UI SKILLS** <br>
-User Research <br>
-Ideation <br>
-Evaluation <br>
-Wireframes <br>
-Rapid Prototyping <br>
-Motion Graphics <br>
-HTML <br>
-CSS <br>
-Graphic Design <br>
-video editing <br>
-Illustration <br>
-3d Modeling <br>
+**INTERPERSONAL SKILLS** <br>
+Problem Solving <br>
+Collaborative Problem Solving <br>
+Group Work <br>
+Communication <br>
+Teamwork <br>
+Cultural Awareness <br>
+Creativity<br>
+Critical and Structured thinking<br>
+Responsibility<br>
+Empathy<br>
+Time Management <br>
+
 
   
  
