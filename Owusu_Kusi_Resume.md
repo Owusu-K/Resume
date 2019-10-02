@@ -2,7 +2,7 @@
 
 
 
- ####OWUSU KUSI####  <br>
+ ####OWUSU KUSI####  
 **UX/UI DESIGNER**<br>
 **KUZO.KUSI.OWUSU@GMAIL.COM** <br>
 **+1 (347)-320-5484** <br>
