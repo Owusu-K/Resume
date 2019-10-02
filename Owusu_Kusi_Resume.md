@@ -6,7 +6,7 @@ KUZO.KUSI.OWUSU@GMAIL.COM <br>
 +1 (347)-320-5484 <br>
 [OWUSUKUSI.COM](https://www.owusukusi.com "My Portfolio")
 
-<p>
+
 **SOFTWARE** <br>
 Xd <br>
 Illustrator <br>
@@ -23,9 +23,9 @@ Sketch pro <br>
 Autocad <br>
 Revit <br>
 MS word <br>
-</P>
 
-<p>
+
+
 **UX/UI SKILLS** <br>
 User Research <br>
 Ideation <br>
@@ -39,6 +39,6 @@ Graphic Design <br>
 video editing <br>
 Illustration <br>
 3d Modeling <br>
-</p>
+
   
  
