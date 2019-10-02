@@ -1,6 +1,6 @@
-<img src="images/resumelogo2.png" width="20"> 
+<img src="images/resumelogo2.png" width="200"> 
 
-![](images/resumelogo2.png "logo")
+
 
 **OWUSU KUSI**  <br>
 **UX/UI DESIGNER**<br>
