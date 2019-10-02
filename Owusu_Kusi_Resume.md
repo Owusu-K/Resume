@@ -1,8 +1,5 @@
-
-
 ![](images/resumelogo.png "logo")
-<img src="images/resumelogo.png" width"100"> <br>
-
+<img src="images/resumelogo2.png" width"20"> <br>
 **OWUSU KUSI**  <br>
 **UX/UI DESIGNER**<br>
 **KUZO.KUSI.OWUSU@GMAIL.COM** <br>
