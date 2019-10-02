@@ -7,8 +7,8 @@ KUZO.KUSI.OWUSU@GMAIL.COM <br>
 [OWUSUKUSI.COM](https://www.owusukusi.com "My Portfolio")
 
 
-**SOFTWARE** <br>
-Xd <br>
+**SOFTWARE**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **UX/UI SKILLS**<br>
+Xd <br> 
 Illustrator <br>
 Indesign <br>
 Animate <br>
